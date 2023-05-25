@@ -16,6 +16,11 @@
 
 </div>
 
+### My Latest Projects:
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=neverFeltAlive&repo=vite-mpa&theme=radical" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=neverFeltAlive&repo=vite-pug&theme=radical" />
+
 ### My Stack:
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
@@ -26,8 +31,3 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>
 </div>
-
-### My Latest Projects:
-
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=neverFeltAlive&repo=vite-mpa&theme=radical" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=neverFeltAlive&repo=vite-pug&theme=radical" />
