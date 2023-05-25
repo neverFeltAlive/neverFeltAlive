@@ -1,7 +1,7 @@
 <a href="https://app.daily.dev/neverFeltAlive"><img src="https://api.daily.dev/devcards/5a014fbe5cee47d2bd0155c7bc65e8f1.png?r=lno" width="400" alt="Roman's Dev Card"/></a>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=neverFeltAlive&theme=tokyonight-duo)](https://git.io/streak-stats)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=neverFeltAlive&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=neverFeltAlive&theme=gruvbox)](https://git.io/streak-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=neverFeltAlive&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **neverFeltAlive/neverFeltAlive** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
