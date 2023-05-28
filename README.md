@@ -8,12 +8,20 @@
 
 ### My Stats:
 
-<div>
-  <a href="https://app.daily.dev/neverFeltAlive"><img src="https://api.daily.dev/devcards/5a014fbe5cee47d2bd0155c7bc65e8f1.png?r=lno" width="400" alt="Roman's Dev Card"/></a><br/>
-  <img width="500px" alt="Profile Stats" src="https://github-readme-stats.vercel.app/api?username=neverFeltAlive&theme=radical"/><br/>
-  <img width="500px" alt="Contribution Stats" src="https://streak-stats.demolab.com?user=neverFeltAlive&theme=radical"/><br/>
-  <img width="300px" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=neverFeltAlive&&layout=compactshow_icons=true&theme=radical" /><br/>
-</div>
+<table>
+  <tr>
+    <td>
+    <a href="https://app.daily.dev/neverFeltAlive">
+      <img src="https://api.daily.dev/devcards/5a014fbe5cee47d2bd0155c7bc65e8f1.png?r=lno" width="400" alt="Roman's Dev Card"/>
+    </a>
+    </td>
+    <td>
+      <img width="400px" alt="Profile Stats" src="https://github-readme-stats.vercel.app/api?username=neverFeltAlive&theme=radical"/><br/>
+      <img width="400px" alt="Contribution Stats" src="https://streak-stats.demolab.com?user=neverFeltAlive&theme=radical"/><br/>
+      <img width="200px" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=neverFeltAlive&layout=compactshow_icons=true&theme=radical" />
+    </td>
+  </tr>
+</table>
 
 ### My Latest Projects:
 
