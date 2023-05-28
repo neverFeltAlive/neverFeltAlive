@@ -28,7 +28,15 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=neverFeltAlive&repo=vite-mpa&theme=radical" />
 <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=neverFeltAlive&repo=vite-pug&theme=radical" />
 
-### My Stack:
+### My Skills:
+
+<div>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=github,css,html,js,ts,sass,docker,react,nextjs,redux,vue,nuxtjs&perline=7" /><br/><br/>
+    <img src="https://skillicons.dev/icons?i=py,cs,unity,rust,dart&perline=7" />
+  </a>
+</div>
+<!-- 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original-wordmark.svg" title="Vue" alt="Vue" width="40" height="40"/>&nbsp;
@@ -37,4 +45,4 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>
-</div>
+</div> -->
