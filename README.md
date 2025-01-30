@@ -17,7 +17,7 @@
     </td>
     <td>
       <img width="400px" alt="Profile Stats" src="https://github-readme-stats.vercel.app/api?username=neverFeltAlive&theme=radical"/><br/>
-      <img width="400px" alt="Contribution Stats" src="https://streak-stats.demolab.com?user=neverFeltAlive&theme=radical"/><br/>
+      <!-- <img width="400px" alt="Contribution Stats" src="https://streak-stats.demolab.com?user=neverFeltAlive&theme=radical"/><br/> -->
       <img width="200px" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=neverFeltAlive&layout=compact&show_icons=true&theme=radical" />
     </td>
   </tr>
