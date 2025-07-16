@@ -23,10 +23,12 @@
   </tr>
 </table>
 
+<!-- 
 ### My Latest Projects:
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=neverFeltAlive&repo=vite-mpa&theme=radical" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=neverFeltAlive&repo=vite-pug&theme=radical" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=neverFeltAlive&repo=vite-pug&theme=radical" /> 
+-->
 
 ### My Skills:
 
